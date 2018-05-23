@@ -1,3 +1,6 @@
+/Backend/target
+/Middleware/target
+
 # Compiled class file
 *.class
 
